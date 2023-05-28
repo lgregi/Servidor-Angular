@@ -1,0 +1,26 @@
+
+.card {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .form-group{
+    margin-bottom: 10px;
+    color: black;
+}
+.btn {
+    color: #21201f;
+    background-color: #1092d2;
+}
+.card-link{
+    color: #FF8C00 ;
+}
+.small text-danger{
+    color: black;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
